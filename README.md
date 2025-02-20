@@ -3,4 +3,4 @@ The idea of this repo is to host unmodified decompiled shaders for Saints Row 2 
 
 ### Contributing
 
-You can open a PR or contact me to add shaders to the repo but please make sure they can recompile correctly and that they works in the game first. Compare with the assembly of the original shader/s for that.
+You can open a PR or contact me to add shaders to the repo but please make sure they can recompile correctly and that they work in the game first. Compare with the assembly of the original shader/s for that.
